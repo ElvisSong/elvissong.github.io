@@ -2,13 +2,13 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>SQL语句 - 金窝银窝，不如狗窝</title>
+  <title>你好，杭州 - 金窝银窝，不如狗窝</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
-  <meta name="description" content="SQL DML 和 DDL 可以把 SQL 分为两个部分：数据操作语言 (DML) 和 数据定义语言 (DDL)。 SQL (结构化查询语言)是用于执行查询的语法。但是 SQL 语言也包含用于更新、插">
+  <meta name="description" content="五年前高考结束，暑假的时间来杭州转了一天。依稀记得当时和姑姑，堂弟一起，观山，入寺，赏湖。一天下来可是真累。 自己却从未想过会到杭州来工作，感">
   
-  <meta itemprop="name" content="SQL语句 - 金窝银窝，不如狗窝">
-  <meta itemprop="description" content="SQL DML 和 DDL 可以把 SQL 分为两个部分：数据操作语言 (DML) 和 数据定义语言 (DDL)。 SQL (结构化查询语言)是用于执行查询的语法。但是 SQL 语言也包含用于更新、插">
+  <meta itemprop="name" content="你好，杭州 - 金窝银窝，不如狗窝">
+  <meta itemprop="description" content="五年前高考结束，暑假的时间来杭州转了一天。依稀记得当时和姑姑，堂弟一起，观山，入寺，赏湖。一天下来可是真累。 自己却从未想过会到杭州来工作，感">
   <meta itemprop="image" content="https://elvissong.github.io/img/author.jpg">
   
   
@@ -63,127 +63,27 @@
 	<article itemprop="articleBody">
     <header class="article-info clearfix">
   <h1 itemprop="name">
-      <a href="https://elvissong.github.io/post/sql%E8%AF%AD%E5%8F%A5/" title="SQL语句" itemprop="url">SQL语句</a>
+      <a href="https://elvissong.github.io/life/%E4%BD%A0%E5%A5%BD%E6%9D%AD%E5%B7%9E/" title="你好，杭州" itemprop="url">你好，杭州</a>
   </h1>
   <p class="article-author">By
     
-      <a href="https://elvissong.github.io/post/" title="ElvisSong">ElvisSong</a>
+      <a href="http://elvissong.github.io/life/" title="ElvisSong">ElvisSong</a>
     
   </p>
   <p class="article-time">
-    <time datetime="2017-03-01 00:00:00 &#43;0800 CST" itemprop="datePublished">2017年03月01日</time>
+    <time datetime="2018-06-10 23:59:44 &#43;0800 CST" itemprop="datePublished">2018年06月10日</time>
   </p>
 </header>
 
 	<div class="article-content">
     
-		<div class="toc-article">
-			<strong class="toc-title">文章目录</strong>
-      <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#sql-dml-和-ddl">SQL DML 和 DDL</a></li>
-<li><a href="#sql-通配符">SQL 通配符</a></li>
-</ul></li>
-</ul></li>
-</ul>
-</nav>
-		</div>
-    
-    
+    <p>五年前高考结束，暑假的时间来杭州转了一天。依稀记得当时和姑姑，堂弟一起，观山，入寺，赏湖。一天下来可是真累。</p>
 
-<h3 id="sql-dml-和-ddl">SQL DML 和 DDL</h3>
+<p>自己却从未想过会到杭州来工作，感觉事情发生的很突然。两周前面试，一周前入职，现在已经上班一周了，有点奇妙的。不过既然来了，那就好好干吧。也算是转行第一份工作，正式的成为了一个码农。目前还在学习期，好好表现吧。</p>
 
-<p>可以把 SQL 分为两个部分：数据操作语言 (DML) 和 数据定义语言 (DDL)。<br />
-SQL (结构化查询语言)是用于执行查询的语法。但是 SQL 语言也包含用于更新、插入和删除记录的语法。</p>
+<p>从国企出来，到找到工作，一个多月的时间。本来的目标是去魔都的，阴差阳错就借着我飞哥的光进了目前这个公司。不过在上海那几周，自己却是一点点接触到社会。面试，沟通等等，和之前在学校是完全不一样的。也怪当初的自己没有多去尝试，签了三方后就有点偏安一隅的意思。现在倒是醒悟了，年轻人不要怕失败，多去尝试才能找到适合自己的。</p>
 
-<p>查询和更新指令构成了 SQL 的 DML 部分：</p>
-
-<ul>
-<li>SELECT - 从数据库表中获取数据<br /></li>
-<li>UPDATE - 更新数据库表中的数据<br /></li>
-<li>DELETE - 从数据库表中删除数据<br /></li>
-<li>INSERT INTO - 向数据库表中插入数据<br />
-<br /></li>
-</ul>
-
-<p>SQL 的数据定义语言 (DDL) 部分使我们有能力创建或删除表格。我们也可以定义索引（键），规定表之间的链接，以及施加表间的约束。</p>
-
-<p>SQL 中最重要的 DDL 语句:</p>
-
-<ul>
-<li>CREATE DATABASE - 创建新数据库<br /></li>
-<li>ALTER DATABASE - 修改数据库<br /></li>
-<li>CREATE TABLE - 创建新表<br /></li>
-<li>ALTER TABLE - 变更（改变）数据库表<br /></li>
-<li>DROP TABLE - 删除表<br /></li>
-<li>CREATE INDEX - 创建索引（搜索键）<br /></li>
-<li>DROP INDEX - 删除索引<br />
-<br /></li>
-</ul>
-
-<p>select * from 表名 或者 select 列名 from 表名</p>
-
-<p>关键词 distinct 用于返回唯一不同的值</p>
-
-<p>select distinct 列名 from 表名</p>
-
-<p>select 列名 from 表名 where 列 运算符 值</p>
-
-<p>运算符 | 描述<br />
-&ndash; | &ndash;|<br />
-= | 等于 |<br />
-&lt;&gt; | 不等于<br />
-&gt; | 大于<br />
-&lt; | 小于<br />
-&gt;= | 大于等于<br />
-&lt;= | 小于等于<br />
-between | 在某个范围内<br />
-like | 搜索某种模式</p>
-
-<p>and 和 or  且与或</p>
-
-<p>select * from Persons where Lastname=&lsquo;peter&rsquo;</p>
-
-<p>top 子句用于规定要返回记录的数目</p>
-
-<p>select top number | percent column_name(s) from table_name</p>
-
-<p>select top 50 percent * from Persons</p>
-
-<p>like 用于在 where 子句中搜索列中的指定模式</p>
-
-<p>select column_name(s) from table_name where column_name like pattern</p>
-
-<p>select * from Persons where City like &lsquo;N%&rsquo; 选取Persons表中居住地以N开头的城市的人；</p>
-
-<h3 id="sql-通配符">SQL 通配符</h3>
-
-<p>通配符 | 描述<br />
-&ndash; | &ndash;<br />
-% | 替代一个或多个字母<br />
-_ | 仅替代一个字母<br />
-[charlist] | 字符列中的任何单一字符<br />
-[^charlist] 或者 [!charlist] | 不再字符列中的任何单一字符</p>
-
-<p>IN 操作符允许我们在 where 子句中规定多个值</p>
-
-<p>select column_name(s) from table_name where column_name IN (value1, value2,&hellip;)</p>
-
-<p>Between 在where子句中使用，选取介于两个值之间的数据范围</p>
-
-<p>select column_name(s) from table_name where column_name Between value1 and value2</p>
-
-<p>alias 给表名一个别名</p>
-
-<p>select column_name(s) from table_name as alias_name</p>
-
-<p>SELECT po.OrderID, p.LastName, p.FirstName<br />
-FROM Persons AS p, Product_Orders AS po<br />
-WHERE p.LastName=&lsquo;Adams&rsquo; AND p.FirstName=&lsquo;John&rsquo;</p>
+<p>这一趟出来，也多亏了大学舍友，同学的扶持，真的了解到在家靠父母，出门靠朋友了。如果没有他们，我估计我一个月也撑不下去。感谢各位的扶持！</p>
 
 	</div>
   <footer class="article-footer clearfix">
@@ -194,14 +94,14 @@ WHERE p.LastName=&lsquo;Adams&rsquo; AND p.FirstName=&lsquo;John&rsquo;</p>
 <div class="article-categories">
   <span></span>
   
-  <a class="article-category-link" href="https://elvissong.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0">读书笔记</a>
+  <a class="article-category-link" href="https://elvissong.github.io/categories/%E7%94%9F%E6%B4%BB">生活</a>
   
 </div>
 
 
 
   <div class="article-share" id="share">
-    <div data-url="https://elvissong.github.io/post/sql%E8%AF%AD%E5%8F%A5/" data-title="SQL语句" data-tsina="2557765741" class="share clearfix">
+    <div data-url="https://elvissong.github.io/life/%E4%BD%A0%E5%A5%BD%E6%9D%AD%E5%B7%9E/" data-title="你好，杭州" data-tsina="2557765741" class="share clearfix">
     </div>
   </div>
 </footer>
@@ -373,38 +273,6 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 $(document).ready(function(){
-  var ai = $('.article-content>iframe'),
-      ae = $('.article-content>embed'),
-      t  = $('#toc'),
-      h  = $('article h2')
-      ah = $('article h2'),
-      ta = $('#toc.toc-aside'),
-      o  = $('.openaside'),
-      c  = $('.closeaside');
-  if(ai.length>0){
-    ai.wrap('<div class="video-container" />');
-  };
-  if(ae.length>0){
-   ae.wrap('<div class="video-container" />');
-  };
-  if(ah.length==0){
-    t.css('display','none');
-  }else{
-    c.click(function(){
-      ta.css('display', 'block').addClass('fadeIn');
-    });
-    o.click(function(){
-      ta.css('display', 'none');
-    });
-    $(window).scroll(function(){
-      ta.css("top",Math.max(140,320-$(this).scrollTop()));
-    });
-  };
-});
-</script>
-
-<script type="text/javascript">
-$(document).ready(function(){
   var $this = $('.share'),
       url = $this.attr('data-url'),
       encodedUrl = encodeURIComponent(url),
@@ -431,27 +299,6 @@ $(document).ready(function(){
 });
 </script>
 
-
-<link rel="stylesheet" href="https://elvissong.github.io/fancybox/jquery.fancybox.css" media="screen" type="text/css">
-<script src="https://elvissong.github.io/fancybox/jquery.fancybox.pack.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-  $('.article-content').each(function(i){
-    $(this).find('img').each(function(){
-      if ($(this).parent().hasClass('fancybox')) return;
-      var alt = this.alt;
-      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
-      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
-    });
-    $(this).find('.fancybox').each(function(){
-      $(this).attr('rel', 'article' + i);
-    });
-  });
-  if($.fancybox){
-    $('.fancybox').fancybox();
-  }
-});
-</script>
 
 
 
