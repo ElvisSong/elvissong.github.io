@@ -1,85 +1,298 @@
-<!DOCTYPE HTML>
-<html lang="zh-CN">
+<!DOCTYPE html>
+<html lang="zh-cn" itemscope itemtype="http://schema.org/WebPage">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Shell 基础 - 金窝银窝，不如狗窝</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
-  <meta name="description" content="Shell是什么 Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。 Shell 还是一个弓能强大的编程语言，易编写，">
-  
-  <meta itemprop="name" content="Shell 基础 - 金窝银窝，不如狗窝">
-  <meta itemprop="description" content="Shell是什么 Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。 Shell 还是一个弓能强大的编程语言，易编写，">
-  <meta itemprop="image" content="https://elvissong.github.io/img/author.jpg">
-  
-  
-  <meta name="twitter:description" content="Welcome to my blog! &lt;br/&gt; Hope you have fun here!">
-  
-  <link rel="shortcut icon" href="https://elvissong.github.io/img/favicon.ico"/>
-  <link rel="apple-touch-icon" href="https://elvissong.github.io/apple-touch-icon.png" />
-  <link rel="apple-touch-icon-precomposed" href="https://elvissong.github.io/apple-touch-icon.png" />
-  <link rel="stylesheet" href="https://elvissong.github.io/highlight/styles/github.css">
-  <script src="https://elvissong.github.io/highlight/highlight.pack.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script>
-  <link rel="stylesheet" href="https://elvissong.github.io/font/hack/css/hack.min.css">
-  <link rel="stylesheet" href="https://elvissong.github.io/css/style.css">
-</head>
 
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+
+
+<meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="author" content="ElvisSong" />
+  <meta name="description" content="Shell是什么 Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。 Shell 还是一个弓能强大的编程语言，易编写，" />
+
+  <meta name="keywords" content="Hugo, theme, jane" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.47.1" />
+
+
+<link rel="canonical" href="https://elvissong.github.io/post/shell/" />
+
+
+
+<link rel="icon" href="/favicon.ico" />
+
+
+
+
+
+
+
+
+
+
+<link href="/dist/jane.min.css?v=2.7.0" rel="stylesheet">
+
+
+
+
+<meta property="og:title" content="Shell 基础" />
+<meta property="og:description" content="Shell是什么 Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。 Shell 还是一个弓能强大的编程语言，易编写，" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://elvissong.github.io/post/shell/" /><meta property="article:published_time" content="2017-02-01T00:00:00&#43;08:00"/>
+<meta property="article:modified_time" content="2017-02-01T00:00:00&#43;08:00"/>
+<meta itemprop="name" content="Shell 基础">
+<meta itemprop="description" content="Shell是什么 Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。 Shell 还是一个弓能强大的编程语言，易编写，">
+
+
+<meta itemprop="datePublished" content="2017-02-01T00:00:00&#43;08:00" />
+<meta itemprop="dateModified" content="2017-02-01T00:00:00&#43;08:00" />
+<meta itemprop="wordCount" content="1652">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Shell 基础"/>
+<meta name="twitter:description" content="Shell是什么 Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。 Shell 还是一个弓能强大的编程语言，易编写，"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+
+
+
+</head>
 <body>
-  <header>
-    <div>
-  
-  <div id="imglogo">
-    <a href="https://elvissong.github.io/"><img src="https://elvissong.github.io/img/logo.svg" alt="金窝银窝，不如狗窝" title="金窝银窝，不如狗窝"/></a>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">金窝银窝，不如狗窝</a>
   </div>
-  
-  <div id="textlogo">
-    <h1 class="site-name"><a href="https://elvissong.github.io/" title="金窝银窝，不如狗窝">金窝银窝，不如狗窝</a></h1>
-    <h2 class="blog-motto"></h2>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
   </div>
-  <div class="navbar"><a class="navbutton navmobile" href="#" title="menu"></a></div>
-  <nav class="animated">
-    <ul>
-      
-      <li><a href="/">首页</a></li>
-      
-      <li><a href="/life">生活</a></li>
-      
-      <li><a href="/about">关于</a></li>
-      
-      <li>
-        <form class="search" method="get" action="https://www.google.com/search">
-          <div>
-            <input type="text" id="search" name="q" placeholder="搜索">
-          </div>
-        </form>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <li class="mobile-menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://elvissong.github.io/">Home</a>
+          
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://elvissong.github.io/post/">Archives</a>
+          
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://elvissong.github.io/tags/">Tags</a>
+          
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://elvissong.github.io/categories/">Categories</a>
+          
+        
       </li>
-    </ul>
-  </nav>
+    
+  </ul>
+</nav>
+
+
+  
+    
+
+
+
+
+
+
+  <link rel="stylesheet" href="/lib/photoswipe/photoswipe.min.css" />
+  <link rel="stylesheet" href="/lib/photoswipe/default-skin/default-skin.min.css" />
+
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
 </div>
 
-  </header>
-  <div id="container">
-    <div id="main" class="post" itemscope itemprop="blogPost">
-	<article itemprop="articleBody">
-    <header class="article-info clearfix">
-  <h1 itemprop="name">
-      <a href="https://elvissong.github.io/post/shell/" title="Shell 基础" itemprop="url">Shell 基础</a>
-  </h1>
-  <p class="article-author">By
-    
-      <a href="https://elvissong.github.io/post/" title="ElvisSong">ElvisSong</a>
-    
-  </p>
-  <p class="article-time">
-    <time datetime="2017-02-01 00:00:00 &#43;0800 CST" itemprop="datePublished">2017年02月01日</time>
-  </p>
-</header>
+  
 
-	<div class="article-content">
+  
+
+  <header id="header" class="header container">
+    <div class="logo-wrapper">
+  <a href="/" class="logo">
     
-		<div class="toc-article">
-			<strong class="toc-title">文章目录</strong>
-      <nav id="TableOfContents">
+      金窝银窝，不如狗窝
+    
+  </a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    
+      <li class="menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://elvissong.github.io/">Home</a>
+          
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://elvissong.github.io/post/">Archives</a>
+          
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://elvissong.github.io/tags/">Tags</a>
+          
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://elvissong.github.io/categories/">Categories</a>
+          
+
+        
+
+      </li>
+    
+    
+  </ul>
+</nav>
+
+  </header>
+
+  <div id="mobile-panel">
+    <main id="main" class="main bg-llight">
+      <div class="content-wrapper">
+        <div id="content" class="content container">
+          <article class="post bg-white">
+    
+    <header class="post-header">
+      <h1 class="post-title">Shell 基础</h1>
+      
+      <div class="post-meta">
+        <span class="post-time"> 2017-02-01 </span>
+        <div class="post-category">
+            <a href="https://elvissong.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"> 读书笔记 </a>
+            
+          </div>
+        <span class="more-meta"> 约 1652 字 </span>
+          <span class="more-meta"> 预计阅读 4 分钟 </span>
+
+        
+        
+
+        
+        
+      </div>
+    </header>
+
+    
+    
+<div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content">
+    <nav id="TableOfContents">
 <ul>
 <li>
 <ul>
@@ -101,40 +314,41 @@
 </ul></li>
 </ul>
 </nav>
-		</div>
+  </div>
+</div>
+
     
-    
+    <div class="post-content">
+      
 
 <h3 id="shell是什么">Shell是什么</h3>
 
-<p>Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。<br />
+<p>Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。
 Shell 还是一个弓能强大的编程语言，易编写，易调试，灵活性较强。Shell 是解释执行的的脚本语言，在 Shell 中可以直接调用 Linux 系统命令。</p>
 
 <h3 id="一些命令">一些命令</h3>
 
 <ol>
-<li>echo 输出命令<br /></li>
-<li>echo [选项] [输出内容]<br /></li>
-<li>选项：-e: 支持反斜线控制字符转换<br />
-<br /></li>
+<li>echo 输出命令</li>
+<li>echo [选项] [输出内容]</li>
+<li>选项：-e: 支持反斜线控制字符转换</li>
 </ol>
 
-<p>控制字符 | 作用 |<br />
-&ndash; | &ndash;<br />
-\a | 输出警告声<br />
-\b | 退格键，也就是向左删除键<br />
-\n | 换行符<br />
-\r | 回车键<br />
-\t | 制表符，也就是 tab 键<br />
-\v | 垂直制表符<br />
-\0nnn | 按照八进制 ASCII 码表输出字符。0 是数字零，nnn 是三位八进制数<br />
+<p>控制字符 | 作用 |
+&ndash; | &ndash;
+\a | 输出警告声
+\b | 退格键，也就是向左删除键
+\n | 换行符
+\r | 回车键
+\t | 制表符，也就是 tab 键
+\v | 垂直制表符
+\0nnn | 按照八进制 ASCII 码表输出字符。0 是数字零，nnn 是三位八进制数
 \xhh | 按照十六进制 ASCII 码表输出字符。</p>
 
 <ol>
-<li>脚本执行<br /></li>
-<li>赋予执行权限，直接运行<br />
-&gt; chmod 755 hello.sh<br />
-<br /></li>
+<li>脚本执行</li>
+<li>赋予执行权限，直接运行
+&gt; chmod 755 hello.sh</li>
 </ol>
 
 <blockquote>
@@ -142,9 +356,8 @@ Shell 还是一个弓能强大的编程语言，易编写，易调试，灵活�
 </blockquote>
 
 <ul>
-<li>通过 Bash 调用脚本<br />
-&gt; bash hello.sh<br />
-<br /></li>
+<li>通过 Bash 调用脚本
+&gt; bash hello.sh</li>
 </ul>
 
 <h3 id="bash-的基本功能">Bash 的基本功能</h3>
@@ -152,46 +365,42 @@ Shell 还是一个弓能强大的编程语言，易编写，易调试，灵活�
 <h4 id="命令别名和快捷键">命令别名和快捷键</h4>
 
 <ul>
-<li>查看系统中所有命令的别名<br />
-&gt; alias<br /></li>
-<li>设定别名命令<br />
-&gt; alias 别名=‘原命令’<br /></li>
-<li>别名永久生效，需写入环境变量配置文件<br />
-&gt; vi ~/.bashrc<br /></li>
-<li>删除别名<br />
-&gt; unalias<br />
-<br /></li>
+<li>查看系统中所有命令的别名
+&gt; alias</li>
+<li>设定别名命令
+&gt; alias 别名=‘原命令’</li>
+<li>别名永久生效，需写入环境变量配置文件
+&gt; vi ~/.bashrc</li>
+<li>删除别名
+&gt; unalias</li>
 </ul>
 
 <h4 id="命令生效顺序">命令生效顺序</h4>
 
 <ol>
-<li>第一顺位执行用绝对路径或相对路径执行的命令<br /></li>
-<li>第二顺位执行命令<br /></li>
-<li>第三顺位执行 Bash 的内部命令<br /></li>
-<li>第四顺位执行按照 $PATH 环境变量定义的目录查找顺序找到的第一个命令<br />
-<br /></li>
+<li>第一顺位执行用绝对路径或相对路径执行的命令</li>
+<li>第二顺位执行命令</li>
+<li>第三顺位执行 Bash 的内部命令</li>
+<li>第四顺位执行按照 $PATH 环境变量定义的目录查找顺序找到的第一个命令</li>
 </ol>
 
 <h4 id="常用快捷键">常用快捷键</h4>
 
 <ol>
-<li>Ctrl + c : 强制终止当前命令<br /></li>
-<li>Ctrl + l : 清屏<br /></li>
-<li>Ctrl + a : 光标移动到命令行首<br /></li>
-<li>Ctrl + e : 光标移动到命令行尾<br /></li>
-<li>Ctrl + u ：从光标所在位置删除到行首<br /></li>
-<li>Ctrl + z : 把命令放入后台<br /></li>
-<li>Ctrl + r : 在历史命令中搜索<br />
-<br /></li>
+<li>Ctrl + c : 强制终止当前命令</li>
+<li>Ctrl + l : 清屏</li>
+<li>Ctrl + a : 光标移动到命令行首</li>
+<li>Ctrl + e : 光标移动到命令行尾</li>
+<li>Ctrl + u ：从光标所在位置删除到行首</li>
+<li>Ctrl + z : 把命令放入后台</li>
+<li>Ctrl + r : 在历史命令中搜索</li>
 </ol>
 
 <h4 id="历史命令">历史命令</h4>
 
 <ul>
-<li>查看历史命令<br />
-&gt; history [选项] [历史命令保存文件]<br />
-<br /></li>
+<li>查看历史命令
+&gt; history [选项] [历史命令保存文件]</li>
 </ul>
 
 <blockquote>
@@ -201,20 +410,17 @@ Shell 还是一个弓能强大的编程语言，易编写，易调试，灵活�
 </blockquote>
 
 <ul>
-<li>历史命令的调用<br /></li>
-<li>使用上下箭头调用之前的命令<br /></li>
-<li>使用 “!n” 重复执行第 n 条历史命令<br /></li>
-<li>使用 “!!” 重复执行上一条命令<br /></li>
-<li>使用 “!字串” 重复执行最后一条以该字串开头的命令<br />
-<br />
-<br /></li>
+<li>历史命令的调用</li>
+<li>使用上下箭头调用之前的命令</li>
+<li>使用 “!n” 重复执行第 n 条历史命令</li>
+<li>使用 “!!” 重复执行上一条命令</li>
+<li>使用 “!字串” 重复执行最后一条以该字串开头的命令</li>
 </ul>
 
 <h4 id="输出重定向">输出重定向</h4>
 
 <ul>
-<li>输出重定向<br />
-<br /></li>
+<li>输出重定向</li>
 </ul>
 
 <table>
@@ -265,27 +471,26 @@ Shell 还是一个弓能强大的编程语言，易编写，易调试，灵活�
 </table>
 
 <ul>
-<li>输入重定向<br />
-&gt; wc [选项][文件名]<br />
-<br /></li>
+<li>输入重定向
+&gt; wc [选项][文件名]</li>
 </ul>
 
 <blockquote>
 <p>选项：</p>
 
-<p>-c: 统计字节数<br />
--w: 统计单词数<br />
+<p>-c: 统计字节数
+-w: 统计单词数
 -l：统计行数</p>
 </blockquote>
 
 <h4 id="多命令顺序执行">多命令顺序执行</h4>
 
 <ul>
-<li><p>多命令执行符<br />
-多命令执行符 | 格式 | 作用<br />
-&ndash; | &ndash; | &ndash;<br />
-; | 命令1;命令2 | 多个命令顺序执行，命令之间没有任何逻辑关系<br />
-&amp;&amp; | 命令1&amp;&amp;命令2 | 逻辑与, 当命令1正确执行，则命令2才会执行；当命令1执行不正确，则命令2不会执行<br />
+<li><p>多命令执行符
+多命令执行符 | 格式 | 作用
+&ndash; | &ndash; | &ndash;
+; | 命令1;命令2 | 多个命令顺序执行，命令之间没有任何逻辑关系
+&amp;&amp; | 命令1&amp;&amp;命令2 | 逻辑与, 当命令1正确执行，则命令2才会执行；当命令1执行不正确，则命令2不会执行
 || | 命令1||命令2 | 逻辑或，当命令1执行不正确，则命令2才会执行；当命令1正确执行，命令2不会执行</p></li>
 
 <li><p>管道符</p></li>
@@ -300,8 +505,7 @@ Shell 还是一个弓能强大的编程语言，易编写，易调试，灵活�
 <h4 id="shell-中特殊符号">Shell 中特殊符号</h4>
 
 <ul>
-<li>通配符<br />
-<br /></li>
+<li>通配符</li>
 </ul>
 
 <table>
@@ -341,8 +545,7 @@ Shell 还是一个弓能强大的编程语言，易编写，易调试，灵活�
 </table>
 
 <ul>
-<li>Bash 中其他特殊符号<br />
-<br /></li>
+<li>Bash 中其他特殊符号</li>
 </ul>
 
 <table>
@@ -386,298 +589,151 @@ Shell 还是一个弓能强大的编程语言，易编写，易调试，灵活�
 </tbody>
 </table>
 
-	</div>
-  <footer class="article-footer clearfix">
-  
-
-
-
-<div class="article-categories">
-  <span></span>
-  
-  <a class="article-category-link" href="https://elvissong.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0">读书笔记</a>
-  
-</div>
-
-
-
-  <div class="article-share" id="share">
-    <div data-url="https://elvissong.github.io/post/shell/" data-title="Shell 基础" data-tsina="2557765741" class="share clearfix">
     </div>
-  </div>
-</footer>
 
-	</article>
+    
+    
+<div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">ElvisSong</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">2017-02-01</span>
+  </p>
   
-
-
-
-
-<div class="post bg-white">
-  <div id="comments-gitment"></div>
-  <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-  <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-  <script type="text/javascript">
-  const gitment = new Gitment({
-    id: 'shell.md',
-    title: 'Shell 基础',
-    link: 'location.href',
-    desc: 'Shell是什么 Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。 Shell 还是一个弓能强大的编程语言，易编写，',
-    owner: 'elvissong',
-    repo: 'blogs',
-    oauth: {
-      client_id: '5c7ee7bedb0995204f21',
-      client_secret: '7f4d35180f9069d3eeffab0e16d2bff29e8bbeda'
-    }
-  })
-  gitment.render('comments-gitment')
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://github.com/imsun/gitment">comments powered by gitment.</a></noscript>
-</div>
-
-
-
-</div>
-
-    <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
-<div id="asidepart">
-<div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
-<aside class="clearfix">
-  
-
-<div class="categorieslist">
-  <p class="asidetitle">分类</p>
-  <ul>
-    
-    <li><a href="https://elvissong.github.io/categories/%e7%94%9f%e6%b4%bb" title="生活">生活<sup>3</sup></a></li>
-    
-    <li><a href="https://elvissong.github.io/categories/%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0" title="读书笔记">读书笔记<sup>6</sup></a></li>
-    
-  </ul>
-</div>
-
-
-
-  
-
-
-
-  
-  <div class="archiveslist">
-    <p class="asidetitle">归档</p>
-    <ul class="archive-list">
-      
-      
-      <li class="archive-list-item">
-        <a class="archive-list-link" href="https://elvissong.github.io/post/#2018-08">2018年08月</a><span class="archive-list-count">1</span>
-      </li>
-      
-      
-      <li class="archive-list-item">
-        <a class="archive-list-link" href="https://elvissong.github.io/post/#2017-08">2017年08月</a><span class="archive-list-count">1</span>
-      </li>
-      
-      
-      <li class="archive-list-item">
-        <a class="archive-list-link" href="https://elvissong.github.io/post/#2017-04">2017年04月</a><span class="archive-list-count">1</span>
-      </li>
-      
-      
-      <li class="archive-list-item">
-        <a class="archive-list-link" href="https://elvissong.github.io/post/#2017-03">2017年03月</a><span class="archive-list-count">1</span>
-      </li>
-      
-      
-      <li class="archive-list-item">
-        <a class="archive-list-link" href="https://elvissong.github.io/post/#2017-02">2017年02月</a><span class="archive-list-count">1</span>
-      </li>
-      
-      
-      <li class="archive-list-item">
-        <a class="archive-list-link" href="https://elvissong.github.io/post/#2017-01">2017年01月</a><span class="archive-list-count">1</span>
-      </li>
-      
-    </ul>
-
-  </div>
-
-
-  
-
-
-
-  
-
-</aside>
-</div>
-
-  </div>  
-  <footer><div id="footer" >
-  
-  <div class="line">
-    <span></span>
-    <div style='background:no-repeat url("https://elvissong.github.io/img/author.jpg") left top;-webkit-background-size:6.875em 6.875em;-moz-background-size:6.875em 6.875em;background-size:6.875em 6.875em;' class="author" ></div>
-  </div>
-  
-  
-  <section class="info">
-    <p>一个半路出家的测试程序员 <br/> 想要做点想做的东西</p>
-  </section>
-  
-  <div class="social-font clearfix">
-    
-    <a href="http://weibo.com/%e4%bd%a0%e7%9c%8b%e6%88%91%e5%a4%b4%e5%83%8f%e6%98%af%e4%b8%8d%e6%98%af%e4%b8%80%e6%9d%a1%e7%8b%97" target="_blank" title="weibo"></a>
-    
-    
-    
-    <a href="https://github.com/ElvisSong" target="_blank" title="github"></a>
-    
-    
-    
-  </div>
-  <p class="copyright">Powered by <a href="http://gohugo.io" target="_blank" title="hugo">hugo</a> and Theme by <a href="https://github.com/coderzh/hugo-pacman-theme" target="_blank" title="hugo-pacman-theme">hugo-pacman-theme</a> © 2018
-    
-    <a href="https://elvissong.github.io/" title="金窝银窝，不如狗窝">金窝银窝，不如狗窝</a>
-    
+  <p class="copyright-item">
+    <span class="item-title">许可协议</span>
+    <span class="item-content"><a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a></span>
   </p>
 </div>
-</footer>
-  <script src="https://elvissong.github.io/js/jquery-2.1.0.min.js"></script>
-<script type="text/javascript">
-done = false;
-$(document).ready(function(){
-  $('.navbar').click(function(){
-    $('header nav').toggleClass('shownav');
-  });
-  var myWidth = 0;
-  function getSize(){
-    if( typeof( window.innerWidth ) == 'number' ) {
-      myWidth = window.innerWidth;
-    } else if( document.documentElement && document.documentElement.clientWidth) {
-      myWidth = document.documentElement.clientWidth;
-    };
-  };
-  var m = $('#main'),
-      a = $('#asidepart'),
-      c = $('.closeaside'),
-      o = $('.openaside');
-  $(window).resize(function(){
-    getSize();
-    if (myWidth >= 1024) {
-      $('header nav').removeClass('shownav');
-    }else
-    {
-      m.removeClass('moveMain');
-      a.css('display', 'block').removeClass('fadeOut');
-      o.css('display', 'none');
-    }
-  });
-  c.click(function(){
-    a.addClass('fadeOut').css('display', 'none');
-    o.css('display', 'block').addClass('fadeIn');
-    m.addClass('moveMain');
-  });
-  o.click(function(){
-    o.css('display', 'none').removeClass('beforeFadeIn');
-    a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');
-    m.removeClass('moveMain');
-  });
-  $(window).scroll(function(){
-    o.css("top",Math.max(80,260-$(this).scrollTop()));
-  });
-  $('form.search').on('submit', function (event) {
-    if (false === done) {
-      event.preventDefault();
-      var orgVal = $(this).find('#search').val();
-      $(this).find('#search').val('site:https:\/\/elvissong.github.io\/ ' + orgVal);
-      done = true;
-      $(this).submit();
-    }
-  });
-});
-</script>
 
-<script type="text/javascript">
-$(document).ready(function(){
-  var ai = $('.article-content>iframe'),
-      ae = $('.article-content>embed'),
-      t  = $('#toc'),
-      h  = $('article h2')
-      ah = $('article h2'),
-      ta = $('#toc.toc-aside'),
-      o  = $('.openaside'),
-      c  = $('.closeaside');
-  if(ai.length>0){
-    ai.wrap('<div class="video-container" />');
-  };
-  if(ae.length>0){
-   ae.wrap('<div class="video-container" />');
-  };
-  if(ah.length==0){
-    t.css('display','none');
-  }else{
-    c.click(function(){
-      ta.css('display', 'block').addClass('fadeIn');
-    });
-    o.click(function(){
-      ta.css('display', 'none');
-    });
-    $(window).scroll(function(){
-      ta.css("top",Math.max(140,320-$(this).scrollTop()));
-    });
-  };
-});
-</script>
+    
+    
 
-<script type="text/javascript">
-$(document).ready(function(){
-  var $this = $('.share'),
-      url = $this.attr('data-url'),
-      encodedUrl = encodeURIComponent(url),
-      title = $this.attr('data-title'),
-      tsina = $this.attr('data-tsina');
-  var html = [
-  '<a href="#" class="overlay" id="qrcode"></a>',
-  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
-  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
-  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
-  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
-  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
-  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
-  '<span title="Share to"></span>'
-  ].join('');
-  $this.append(html);
-  $('.article-share-qrcode').click(function(){
-    var imgSrc = $('#qrcode-pic').attr('data-src');
-    $('#qrcode-pic').attr('src', imgSrc);
-    $('#qrcode-pic').load(function(){
-        $('.qrcode strong').text(' ');
-    });
-  });
-});
-</script>
+    <footer class="post-footer">
+      
+
+      
+      <nav class="post-nav">
+        
+          <a class="prev" href="/post/sql%E8%AF%AD%E5%8F%A5/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">SQL语句</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        
+          <a class="next" href="/post/python-%E7%9A%84%E4%B8%80%E4%BA%9B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/">
+            <span class="next-text nav-default">Python 的一些数据结构</span>
+            <span class="prev-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+
+  
+  
+
+  
+  
+
+  
+
+  <div class="post bg-white">
+      <div id="comments-gitment"></div>
+      <link rel="stylesheet" href="/lib/gitment/gitment-0.0.3.min.css">
+        <script src="/lib/gitment/gitment-0.0.3.min.js"></script>
+      <script type="text/javascript">
+      const gitment = new Gitment({
+        id: 'shell.md',
+        title: 'Shell 基础',
+        link: decodeURI(location.href),
+        desc: 'Shell是什么 Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。 Shell 还是一个弓能强大的编程语言，易编写，',
+        owner: 'elvissong',
+        repo: 'blogs',
+        oauth: {
+          client_id: '5c7ee7bedb0995204f21',
+          client_secret: '7f4d35180f9069d3eeffab0e16d2bff29e8bbeda'
+        }
+      })
+      gitment.render('comments-gitment')
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="https://github.com/imsun/gitment">comments powered by gitment.</a></noscript>
+    </div>
+
+  
+
+        </div>
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:lyggnsxw@sina.com" rel="me noopener" class="iconfont icon-email"
+        title="email" target="_blank">
+      </a>
+      <a href="http://github.com/elvissong" rel="me noopener" class="iconfont icon-github"
+        title="github" target="_blank">
+      </a>
+  <a href="https://elvissong.github.io/index.xml" rel="noopener alternate" type="application/rss&#43;xml" class="iconfont icon-rss"
+    title="rss" target="_blank">
+  </a>
+  </div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - <a class="theme-link" href="https://github.com/xianmin/hugo-theme-jane">Jane</a>
+  </span>
+
+  <span class="copyright-year">
+    &copy;
+    
+      2016 -
+    2019
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span><span class="author">
+        ElvisSong
+        
+      </span></span>
+
+  
+  
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+<script type="text/javascript" src="/lib/jquery/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="/lib/slideout/slideout-1.0.1.min.js"></script>
+<script type="text/javascript" src="/dist/jane.min.js?v=2.7.0"></script>
 
 
-<link rel="stylesheet" href="https://elvissong.github.io/fancybox/jquery.fancybox.css" media="screen" type="text/css">
-<script src="https://elvissong.github.io/fancybox/jquery.fancybox.pack.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-  $('.article-content').each(function(i){
-    $(this).find('img').each(function(){
-      if ($(this).parent().hasClass('fancybox')) return;
-      var alt = this.alt;
-      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
-      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
-    });
-    $(this).find('.fancybox').each(function(){
-      $(this).attr('rel', 'article' + i);
-    });
-  });
-  if($.fancybox){
-    $('.fancybox').fancybox();
-  }
-});
-</script>
+
+
+
+  
+    <script type="text/javascript" src="/js/load-photoswipe.js"></script>
+    <script type="text/javascript" src="/lib/photoswipe/photoswipe.min.js"></script>
+    <script type="text/javascript" src="/lib/photoswipe/photoswipe-ui-default.min.js"></script>
+  
+
+
+
+
+
+
+
 
 
 

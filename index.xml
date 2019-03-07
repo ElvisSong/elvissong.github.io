@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>金窝银窝，不如狗窝</title>
+    <link>https://elvissong.github.io/</link>
+    <description>Recent content on 金窝银窝，不如狗窝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Aug 2018 23:48:57 +0800</lastBuildDate>
+    
+        <atom:link href="https://elvissong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello,hugo</title>
+      <link>https://elvissong.github.io/post/hellohugo/</link>
+      <pubDate>Tue, 21 Aug 2018 23:48:57 +0800</pubDate>
+      
+      <guid>https://elvissong.github.io/post/hellohugo/</guid>
+      
+        <description>
+
+&lt;h3 id=&#34;你好-hugo&#34;&gt;你好，Hugo!&lt;/h3&gt;
+
+&lt;p&gt;这是第一篇用 Hugo 来创建的文章，开始替换 Hexo。为什么不用 Hexo 了呢，大概还是觉得 node.js 有点繁琐吧。其实大部分原因是我对 Go 产生了兴趣，正巧 Go 下有个 Hugo 这个静态站点生成器，就顺势换掉了。之前用 Hexo 搭建的博客也没有坚持下去，这个又不知道能坚持多久了。&lt;/p&gt;
+
+&lt;p&gt;总之，加油吧。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://elvissong.github.io/about/</link>
+      <pubDate>Mon, 20 Aug 2018 23:28:02 +0800</pubDate>
+      
+      <guid>https://elvissong.github.io/about/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;关于&#34;&gt;关于&lt;/h2&gt;
+
+&lt;h3 id=&#34;关于我&#34;&gt;关于我&lt;/h3&gt;
+
+&lt;p&gt;这里是平行线上的博客，依托于 Github 。是个程序测试员，水分特别大。目前在杭州工作。平时会看一些漫画，和比较有兴趣的动画（动漫婆罗门？）。&lt;/p&gt;
+
+&lt;h3 id=&#34;关于博客&#34;&gt;关于博客&lt;/h3&gt;
+
+&lt;p&gt;这个博客是用 Hugo 来构建的静态网站，内容依附于 Github Pages。主要用来记录一些学习笔记，生活吐槽——不过估计还是吐槽较多。希望您会喜欢。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>你好，杭州</title>
+      <link>https://elvissong.github.io/life/%E4%BD%A0%E5%A5%BD%E6%9D%AD%E5%B7%9E/</link>
+      <pubDate>Sun, 10 Jun 2018 23:59:44 +0800</pubDate>
+      
+      <guid>https://elvissong.github.io/life/%E4%BD%A0%E5%A5%BD%E6%9D%AD%E5%B7%9E/</guid>
+      
+        <description>&lt;p&gt;五年前高考结束，暑假的时间来杭州转了一天。依稀记得当时和姑姑，堂弟一起，观山，入寺，赏湖。一天下来可是真累。&lt;/p&gt;
+
+&lt;p&gt;自己却从未想过会到杭州来工作，感觉事情发生的很突然。两周前面试，一周前入职，现在已经上班一周了，有点奇妙的。不过既然来了，那就好好干吧。也算是转行第一份工作，正式的成为了一个码农。目前还在学习期，好好表现吧。&lt;/p&gt;
+
+&lt;p&gt;从国企出来，到找到工作，一个多月的时间。本来的目标是去魔都的，阴差阳错就借着我飞哥的光进了目前这个公司。不过在上海那几周，自己却是一点点接触到社会。面试，沟通等等，和之前在学校是完全不一样的。也怪当初的自己没有多去尝试，签了三方后就有点偏安一隅的意思。现在倒是醒悟了，年轻人不要怕失败，多去尝试才能找到适合自己的。&lt;/p&gt;
+
+&lt;p&gt;这一趟出来，也多亏了大学舍友，同学的扶持，真的了解到在家靠父母，出门靠朋友了。如果没有他们，我估计我一个月也撑不下去。感谢各位的扶持！&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>我的2017</title>
+      <link>https://elvissong.github.io/life/%E6%88%91%E7%9A%842017/</link>
+      <pubDate>Sun, 31 Dec 2017 14:00:00 +0800</pubDate>
+      
+      <guid>https://elvissong.github.io/life/%E6%88%91%E7%9A%842017/</guid>
+      
+        <description>&lt;p&gt;2017的最后一天，是在公司值班度过的。上午还做了几个单子。下午倒没啥事情。&lt;/p&gt;
+
+&lt;p&gt;2017年六月，从学校毕业了，从一个学生狗到一个社畜，只需要短短几天。遗憾的是班级拍毕业照的时候，自己去考科目三了。没有赶上，好在和舍友拍了几张，穿了十几分钟的学士服，感动。上半年的时间里，考了个驾照，做了个毕设，也算是做了件正事。也没有出去玩一玩，浪费了最后的学生证。但是感觉自己本来就偏宅一点，出去也不知道玩什么 = =！&lt;/p&gt;
+
+&lt;p&gt;在学校的日子里，闲的时候就陪同学到图书馆里去坐一坐。大四期间呆在图书馆的时间应该占大学生涯里呆图书馆总时间的 70% 吧。对的，就是这么学渣。坐在图书馆里也是享受一下空调，顺便能看一看可爱的学妹，感叹一句年轻真好。&lt;/p&gt;
+
+&lt;p&gt;大学里面的遗憾也是有的，比如说没有谈个女朋友啊，没有谈个女朋友啊，没有谈个女朋友啊等等，哈哈哈哈，开玩笑。其实感觉自己对女朋友没有多大的执念，也是自己怂吧。回想一下，自己和不熟悉的女生讲话真的会紧张，都有点恐惧症的感觉了。&lt;/p&gt;
+
+&lt;p&gt;在大学期间换了个班级，相处下来还是和原先班级的各位更融洽一点，前班级聚会的时候也去蹭了一蹭，然后和几个爱唱歌的在 KTV 呆到天亮。大学里一共就通宵过三次，这是其中一次吧。之后的班级就是只吃了个饭，没有其他活动。不过之后的班级也有好记得相处的很不错的朋友，感动，感激，感谢。&lt;/p&gt;
+
+&lt;p&gt;七月份就去了公司报道，走上了社畜的道路。其实前三个月在我看来跟在学校差不多的样子，完全就是为了习惯社会上的一些事情，然后顺便学习一下行业的基础，了解一下公司的定位。后两个月在市区的轮岗跟闹着玩一样，也熟悉了市区一点，毕竟小县城没去过市区 :)&lt;/p&gt;
+
+&lt;p&gt;十一月份就回到了县城，算正式走上工作岗位吧。其实说失望也有点，跟自己想像的不一样所以失望。但更担心的是在这样的环境下自己失去了奋斗的心态。是的，我想逃离这样的环境，希望能够更加的积极进取一些。还有就是自己希望去更丰富多彩的地方，去感受，去生活。&lt;/p&gt;
+
+&lt;p&gt;也有人和我说，哪里不是生活呢。对啊，哪里不是生活呢，可自己就是不愿意放弃。也十分的害怕，这样的自己没有竞争力，怕找不到合适自己的工作。不知道自己能不能跨出这一步。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;On my own, sounds a little colder&lt;/p&gt;
+
+&lt;p&gt;On my own, seems a lot more wider&lt;/p&gt;
+
+&lt;p&gt;On my own, can it be a brand new start to live on my own&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;最近很喜欢二宫爱的 《on my own》，说到这个，本来是死宅的我连新的动画番剧居然也不看了，就这样突然的就不看了。更喜欢拿一些老的作品过来看————《Cowboy Bebop》，真的特别喜欢渡边淳一郎和菅野洋子的组合，音乐和画面真的是令人舒爽，老牛仔的浪漫演绎的淋漓尽致。&lt;/p&gt;
+
+&lt;p&gt;也特地去白嫖了宇宙究极生物荒木飞吕彦的《JOJO的奇妙冒险》，真的是特别精彩，但是完全安利不出去……每个人物都刻画的十分精妙，也有自己独特的台词，真的佩服荒木老妖。特别喜欢六部里FF牺牲的那段台词
+&amp;gt;所谓活着，肯定就是在制造回忆吧。回忆让细胞充满了勇气，这就是我的灵魂，这就是我的灵魂，这就是我。&lt;/p&gt;
+
+&lt;p&gt;看到的时候瞬间感动到了。以后有机会，一定要去淘漫画原版。&lt;/p&gt;
+
+&lt;p&gt;嗯，就说到这里吧，2018，希望自己能够像个小傻逼一样快乐的活着。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Merry Christmas</title>
+      <link>https://elvissong.github.io/life/merry-christmas/</link>
+      <pubDate>Mon, 25 Dec 2017 14:49:51 +0800</pubDate>
+      
+      <guid>https://elvissong.github.io/life/merry-christmas/</guid>
+      
+        <description>
+
+&lt;p&gt;写在圣诞节前夜的一些话，随便看看就好了。&lt;/p&gt;
+
+&lt;h2 id=&#34;merry-christmas&#34;&gt;Merry Christmas&lt;/h2&gt;
+
+&lt;p&gt;唔，今年圣诞的感觉好像特别强烈，大概是因为这是毕业后的第一个圣诞节吧。之前在学校的时候总是和宿舍一群人在一起，要么呆在宿舍，或者出去搓一顿。为了避免没人买苹果的尴尬，舍长的我就给每个人买了一个，哈哈哈。&lt;/p&gt;
+
+&lt;p&gt;这两天看到朋友圈都在@微信官方要圣诞帽，结果有的人“戴”上去了，有的人还傻傻的等着微信给他头像发圣诞帽。好像帮他P一个上去啊。&lt;/p&gt;
+
+&lt;p&gt;昨天晚上突然想起了陈奕迅的《圣诞结》，高二高三那会特别迷陈奕迅，许许多多的歌都拿过来听了。现在再听一遍，当初是一个人听，现在依旧一个人听。哦，心痛2017。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;我住的城市从不下雪
+记忆却堆满冷的感觉
+思念的旺季霓虹扫过喧哗的街
+把快乐赶得好远
+落单的恋人最怕过节
+只能独自庆祝尽量喝醉
+我爱过的人没有一个留在身边
+寂寞它陪我过夜
+Marry Marry Christmas
+Lonely Lonely Christmas
+想祝福不知该给谁
+爱被我们打了死结
+Lonely Lonely Christmas
+Marry Marry Christmas
+写了卡片能寄给谁
+心碎的像街上的纸屑&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Merry Christmas! 希望我明年不再一个人过吧。不过想想希望也渺茫。权当安慰自己了。&lt;/p&gt;
+
+&lt;h2 id=&#34;最近&#34;&gt;最近&lt;/h2&gt;
+
+&lt;p&gt;有好长时间没有写文章了，也有好长时间没有码代码了。这一个星期都在忙着装系统的事情。就突然脑子一抽，想要装个双系统。一开始把双系统装在 SSD 上，之后觉得空间太少（心疼自己 120G 的 SSD），直接删了，结果忘记把 Ubuntu grub 的启动给删了，进不去系统。折腾好了又想把 Ubuntu 安装在 HDD 上，又开始折腾。装倒是装好了，结果后来启动后显卡又出问题，安装 AMD 的驱动又是一阵折腾，结果还是没用，死心了。还是两个主机好啊！&lt;/p&gt;
+
+&lt;h2 id=&#34;投资&#34;&gt;投资&lt;/h2&gt;
+
+&lt;p&gt;嗯，数字货币也买了一点，也不多。刚开始买 LTC 的时候第二天就开始跌，当初自己也是莽，攥在手里不放手，每天看好几下。后来逐渐涨到一两千的时候就不管了，就当打水漂了。这一星期的所有数字货币都在下跌，我也是个小菜鸟，也不知道是什么原因。但是我觉得区块链是有未来的，稍微手里攥一点，力所能及的投资一点靠谱的区块链不是坏事。&lt;/p&gt;
+
+&lt;h2 id=&#34;学习&#34;&gt;学习&lt;/h2&gt;
+
+&lt;p&gt;跟着廖雪峰的 JavaScript 教程在学习，嗯，要求不高，只要能稍稍看懂，能够少少的运用一下就好了。还是以熟悉为主。&lt;/p&gt;
+
+&lt;p&gt;还蛊惑大学同学和我一起去学习世界上最好的语言，不过他没有上钩，rua!&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>进程管理</title>
+      <link>https://elvissong.github.io/post/linux-%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://elvissong.github.io/post/linux-%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;进程管理&#34;&gt;进程管理&lt;/h2&gt;
+
+&lt;h3 id=&#34;进程管理的作用&#34;&gt;进程管理的作用&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;判断服务器健康状态
+. 查看系统中 所有进程&lt;/li&gt;
+&lt;li&gt;杀死进程&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;查看所有进程&#34;&gt;查看所有进程&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ps aux (BSD 操作系统格式)&lt;/li&gt;
+&lt;li&gt;ps -le  (Linux 标准命令格式 )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;-a  显示一个终端的所有进程，除了会话引线
+-u  显示一个进程的归属用户和内存使用情况
+-x  显示没有控制终端的进程
+-l  长格式显示，显示更加详细的信息
+-e  显示所有进程，和-A作用一致&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;查看进程数&#34;&gt;查看进程数&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;pstree
+&lt;code&gt;
+-p  显示进程的PID 
+-u  显示进程所属用户
+&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;查看系统健康状态&#34;&gt;查看系统健康状态&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;top 命令选项
+&lt;code&gt;
+-d  指定 top 命令刷新频率，默认 3s
+-b  使用批处理模式输出
+-n  指定 top 命令执行次数，和-b共用  
+&lt;/code&gt;
+e.g. 执行两次并输出到 top.log文件
+&amp;gt; top -b -n 2 &amp;gt; top.log&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在 top 交互模式下可执行命令&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;? 或 h： 显示帮助信息&lt;/li&gt;
+&lt;li&gt;P ：以 CPU 占用率排序（默认）&lt;/li&gt;
+&lt;li&gt;M ：以 内存使用率牌序&lt;/li&gt;
+&lt;li&gt;N ：以 PID 进行排序&lt;/li&gt;
+&lt;li&gt;q : 退出 top&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;杀死进程&#34;&gt;杀死进程&lt;/h3&gt;
+
+&lt;h4 id=&#34;使用-kill-命令&#34;&gt;使用 kill 命令&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;kill -[信号] 进程号&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Linux中的重要信号&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;信号代号&lt;/th&gt;
+&lt;th&gt;信号名称&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;SIGHUP&lt;/td&gt;
+&lt;td&gt;让进程立即关闭，重新读取配置文件后重启&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;SIGINT&lt;/td&gt;
+&lt;td&gt;程序终止信号，用于终止让前台程序，相当于ctrl+c&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;SIGFPE&lt;/td&gt;
+&lt;td&gt;在发生致命的算术错误时发出，不仅包括浮点运算错误，还包括溢出及除数为0等其他所有的算术错误&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;SIGKILL&lt;/td&gt;
+&lt;td&gt;用来立即结束程序的运行，本信号不能被阻塞，处理和忽略，常用于强制终止进程&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;SIGALRM&lt;/td&gt;
+&lt;td&gt;时钟定时信号，计算的是实际的时间或时钟时间，alarm 函数使用该符号&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;SIGTERM&lt;/td&gt;
+&lt;td&gt;正常结束进程的信号，kill 命令默认的信号，若进程产生问题，无法正常终止，则会使用信号9&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;SIGCONT&lt;/td&gt;
+&lt;td&gt;让暂停的进程恢复执行，不能被阻断&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;SIGSTOP&lt;/td&gt;
+&lt;td&gt;暂停前台进程，相当于 ctrl+z 快捷键，不能被阻断&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;重启进程
+&amp;gt; kill -1 2345&lt;/p&gt;
+
+&lt;p&gt;强制杀死进程
+&amp;gt; kill -9 2345&lt;/p&gt;
+
+&lt;h4 id=&#34;使用-killall-命令&#34;&gt;使用 killall 命令&lt;/h4&gt;
+
+&lt;p&gt;killall 按照进程名来杀死进程&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;killall [选项][信号] 进程名&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;-i :交互式, 询问是否要杀死某个进程
+-I :忽略进程名大小写&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;使用-pkill-命令&#34;&gt;使用 pkill 命令&lt;/h4&gt;
+
+&lt;p&gt;pkill 按照进程名来终止进程&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;pkill [选项][信号] 进程名&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;-t 终端号: 按照终端号踢出用户&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;补充： w -查询本机已经登录的用户&lt;/p&gt;
+
+&lt;p&gt;强制杀死从 pts/1 虚拟终端登陆的进程
+&amp;gt; pkill -t -9 pts/1&lt;/p&gt;
+
+&lt;h2 id=&#34;工作管理&#34;&gt;工作管理&lt;/h2&gt;
+
+&lt;h3 id=&#34;把进程放入后台&#34;&gt;把进程放入后台&lt;/h3&gt;
+
+&lt;p&gt;使用 ‘&amp;amp;’ 把命令放入后台，并在后台执行
+&amp;gt; tar -zxvf test.tar.gz /home/test &amp;amp;&lt;/p&gt;
+
+&lt;p&gt;使用 CTRL + z ,把命令放在后台并暂停&lt;/p&gt;
+
+&lt;h3 id=&#34;查看后台的工作&#34;&gt;查看后台的工作&lt;/h3&gt;
+
+&lt;p&gt;显示后台工作的 PID
+&amp;gt; jobs -l&lt;/p&gt;
+
+&lt;h3 id=&#34;将后台工作恢复到前台&#34;&gt;将后台工作恢复到前台&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;fg %[工作号]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;把后台暂停的工作恢复到前台&#34;&gt;把后台暂停的工作恢复到前台&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;bg %[工作号]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;后台命令脱离终端后仍能够执行方法&#34;&gt;后台命令脱离终端后仍能够执行方法&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;把需要执行的命令加入 /etc/rc.local 文件&lt;/li&gt;
+&lt;li&gt;使用系统定时任务, 让系统在指定的时间执行某个后台命令&lt;/li&gt;
+&lt;li&gt;使用 nohup 命令&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;nohup [命令] &amp;amp;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;系统资源查看&#34;&gt;系统资源查看&lt;/h2&gt;
+
+&lt;h3 id=&#34;vmstat-监控系统资源&#34;&gt;vmstat 监控系统资源&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;vmstat [刷新延时 刷新次数]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;dmesg-检测内核信息&#34;&gt;dmesg 检测内核信息&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;dmesg
+dmesg |grep CPU&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;free-查看内存使用&#34;&gt;free 查看内存使用&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;free [-b|-k|-m-g] 以 byte,KB,MB,GB 为单位显示&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;查看-cpu-信息&#34;&gt;查看 CPU 信息&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;cat /proc/cpuinfo&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;uptime&#34;&gt;uptime&lt;/h3&gt;
+
+&lt;p&gt;显示系统的启动时间和平均负载，也就是 top 命令的第一行信息，用 w 命令也可以查看&lt;/p&gt;
+
+&lt;h3 id=&#34;查看系统内核相关信息&#34;&gt;查看系统内核相关信息&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;uname [选项]&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;-a : 查看系统所有相关信息 
+-r : 查看内核版本
+-s : 查看内核名称&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;判断操作系统位数&#34;&gt;判断操作系统位数&lt;/h3&gt;
+
+&lt;p&gt;执行一个本地命令即可查看到
+&amp;gt; file /bin/ls&lt;/p&gt;
+
+&lt;h3 id=&#34;查询当前-linux-系统版本&#34;&gt;查询当前 Linux 系统版本&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;lsb_release -a (centos 7 没有)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;列出进程打开或使用的文件信息&#34;&gt;列出进程打开或使用的文件信息&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;lsof [选项]&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;-c 字符串: 只列出以字符串开头的进程打开的文件
+-u 用户名: 只列出某个用户打开的文件
+-p pid: 只列出某个进程打开的文件&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;查询某个文件被哪个进程调用
+&amp;gt; lsof /sbin/init&lt;/p&gt;
+
+&lt;p&gt;查询 httpd 进程调用哪些文件
+&amp;gt; lsof -c httpd&lt;/p&gt;
+
+&lt;h2 id=&#34;系统定时任务&#34;&gt;系统定时任务&lt;/h2&gt;
+
+&lt;h3 id=&#34;at-一次性定时任务&#34;&gt;at 一次性定时任务&lt;/h3&gt;
+
+&lt;p&gt;确定 at 服务已安装
+&amp;gt; chkconfig &amp;ndash;list | grep atd (centos 6.x 及之前)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;systemctl list-unit-files | grep atd (centos 7)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;重启 at 服务
+&amp;gt; service atd restart&lt;/p&gt;
+
+&lt;h3 id=&#34;了解-at-的访问控制&#34;&gt;了解 at 的访问控制&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;如果 /etc/at.allow 文件存在，那么只有写入 at.allow 文件（白名单）中的用户可以使用 at 命令&lt;/li&gt;
+&lt;li&gt;如果 /etc/at.deny 文件存在，则写入 at.deny 文件（黑名单）中的用户不能使用 at 命令，对root 用户无效&lt;/li&gt;
+&lt;li&gt;如果两个文件都不存在，则只有 root 用户能够执行 at 命令&lt;/li&gt;
+&lt;li&gt;白名单的权限高于黑名单&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;at-命令&#34;&gt;at 命令&lt;/h3&gt;
+
+&lt;p&gt;at [选项] 时间&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;选项
+
+-m : 当 at 工作完成后，无论是否有命令输出，都通过 Email 通知执行该 at 命令的用户
+-c 工作号 ：显示该 at 的实际工作内容
+
+时间
+
+- HH:MM 
+- HH:MM YYYY-MM-DD
+- HH:MM [am][pm] [month][date]
+- HH:MM [am][pm] + [minutes|hours|days|weeks] &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;crond-服务管理&#34;&gt;crond 服务管理&lt;/h2&gt;
+
+&lt;h3 id=&#34;crond-访问控制&#34;&gt;crond 访问控制&lt;/h3&gt;
+
+&lt;p&gt;与 at 服务类似
+* 系统中存在 /etc/cron.allow 文件时，只有写入该文件中的用户可以使用 crond 命令
+* 系统中只有 /etc/cron.deny 文件时，只有写入该文件中的用户不能够使用 crond 命令&lt;/p&gt;
+
+&lt;h3 id=&#34;crond-服务&#34;&gt;crond 服务&lt;/h3&gt;
+
+&lt;p&gt;重启 crond 服务
+&amp;gt; service crond restart&lt;/p&gt;
+
+&lt;p&gt;或者
+&amp;gt; chkconfig crond on&lt;/p&gt;
+
+&lt;p&gt;ps : centos7 会将其转为 systemctl enable crond.service 来执行&lt;/p&gt;
+
+&lt;h3 id=&#34;用户的-crontab-设置&#34;&gt;用户的 crontab 设置&lt;/h3&gt;
+
+&lt;p&gt;crond [选项]&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;-e : 编辑 crontab 定时任务 
+-l : 查询 crontab 任务
+-r : 删除当前用户的所有 crontab 任务&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;crontab -e 进入编辑定时任务界面，会打开 vim 编辑工作&lt;/p&gt;
+
+&lt;p&gt;格式如下：
+* * * * * 你要执行的任务&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;含义&lt;/th&gt;
+&lt;th&gt;范围&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;第一个‘*’&lt;/td&gt;
+&lt;td&gt;一小时当中的第几分钟&lt;/td&gt;
+&lt;td&gt;0-59&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;第二个‘*’&lt;/td&gt;
+&lt;td&gt;一天当中的第几小时&lt;/td&gt;
+&lt;td&gt;0-23&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;第三个‘*’&lt;/td&gt;
+&lt;td&gt;一个月当中的第几天&lt;/td&gt;
+&lt;td&gt;0-31&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;第四个‘*’&lt;/td&gt;
+&lt;td&gt;一年当中的第几个月&lt;/td&gt;
+&lt;td&gt;1-12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;第五个‘*’&lt;/td&gt;
+&lt;td&gt;一周当中的星期几&lt;/td&gt;
+&lt;td&gt;0-7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;特殊符号&lt;/th&gt;
+&lt;th&gt;含义&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;*&lt;/td&gt;
+&lt;td&gt;代表任何时间，比如第一个‘*’表示一个小时中每分钟都执行一次&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;,&lt;/td&gt;
+&lt;td&gt;代表不连续的时间，比如‘0 8,16 * * *’命令表示在每天的8点0分，16点0分都执行一次的意思&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;代表连续的时间，比如‘0 5 * * 1-5’命令表示每周一到周五的5点0分执行一次任务&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;*/n&lt;/td&gt;
+&lt;td&gt;代表每隔多久执行一次，比如‘*/10 * * * *’表示每隔10 分钟执行一次任务&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;### crond 注意事项
+ * 六个选项都不能为空，必须填写，如果不确定使用‘*’代替任意时间
+ * crontab 最小有效时间是分钟，最大有效时间是月
+ * 在定义时间时，日期和星期最好不要在同一条命令中出现，容易让管理员混乱
+ * 在定时任务中，不管是直接写命令还是在脚本写命令，都必须使用绝对路径&lt;/p&gt;
+
+&lt;h2 id=&#34;系统的定时任务&#34;&gt;系统的定时任务&lt;/h2&gt;
+
+&lt;p&gt;上一小节讲的是用户的定时任务，这一节来讲一下系统的定时任务，也就是要编辑 /etc/crontab 这个配置文件&lt;/p&gt;
+
+&lt;h3 id=&#34;执行系统定时任务方法&#34;&gt;执行系统定时任务方法&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;手工执行定时任务&lt;/li&gt;
+&lt;li&gt;系统定时任务&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;把需要定时执行的脚本复制到 /etc/cron.{daily,weekly,monthly} 目录中的任意一个&lt;/li&gt;
+&lt;li&gt;修改 /etc/crontab 配置文件&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;anacron&#34;&gt;anacron&lt;/h2&gt;
+
+&lt;p&gt;anacron 服务是用来保证在系统关机的时候错过的定时任务，可以在系统开机之后再执行&lt;/p&gt;
+
+&lt;h3 id=&#34;anacron-检测周期&#34;&gt;anacron 检测周期&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;anacron 会使用一天，一星期，一个月作为检测周期&lt;/li&gt;
+&lt;li&gt;在系统的 /var/spool/anacron/ 目录中存在 cron.{daily,weekly,monthly}文件，用于记录上次执行 cron 的时间&lt;/li&gt;
+&lt;li&gt;和当前时间做比较，如果两个时间的差值超过了 anacron 的指定时间差值，证明有 cron 任务被执行&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;anacron-配置文件&#34;&gt;anacron 配置文件&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;vi /etc/anacrontab
+- RANDOM_DELAY=45 #最大随机延迟
+- START_HOURS_RANGE=3-22 #anacron的执行时间范围是3：00-22：00
+- 1     5    cron.daily   nice run-parts /etc/cron.daily
+- 7     25   cron.weekly   nice run-parts /etc/cron.weekly
+- @montyly    45   cron.monthly    nice  run-parts  /etc/cron.monthly
+  # 天数      强制延迟（分）      工作名称       实际执行的命令&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;cron-daily-工作过程-其他类似&#34;&gt;cron.daily 工作过程，其他类似&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;首先读取 /var/spool/anacron/cron.daily 中的上一次 anacron 执行的时间&lt;/li&gt;
+&lt;li&gt;和当前时间比较，如果两个时间的差值超过 1 天，就执行 cron.daily 工作&lt;/li&gt;
+&lt;li&gt;执行这个工作只能在 03：00 -22：00 之间&lt;/li&gt;
+&lt;li&gt;执行工作时强制延迟时间为 5 分钟，再随机延迟 0-45 分钟时间&lt;/li&gt;
+&lt;li&gt;使用 nice 命令指定默认优先级，使用 run-parts 脚本执行 /etc/cron.daily 目录中的所有可执行文件&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>名词整理</title>
+      <link>https://elvissong.github.io/post/%E5%90%8D%E8%AF%8D%E6%95%B4%E7%90%86/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://elvissong.github.io/post/%E5%90%8D%E8%AF%8D%E6%95%B4%E7%90%86/</guid>
+      
+        <description>&lt;p&gt;Xen:一个开放源代码虚拟机监视器，由XenProject开发。它打算在单个计算机上运行多达128个有完全功能的操作系统。&lt;/p&gt;
+
+&lt;p&gt;在旧（无虚拟硬件）的处理器上执行Xen，操作系统必须进行显式地修改（“移植”）以在Xen上运行（但是提供对用户应用的兼容性）。这使得Xen无需特殊硬件支持，就能达到高性能的虚拟化。
+KVM: Kernel-based Virtual Machine, 基于内核的虚拟机
+* 是x86架构且硬件支持虚拟化技术（如 intel VT 或 AMD-V）的Linux全虚拟化解决方案。
+* 它包含一个为处理器提供底层虚拟化 可加载的核心模块kvm.ko（kvm-intel.ko或kvm-AMD.ko）。
+* KVM还需要一个经过修改的QEMU软件（qemu-kvm），作为虚拟机上层控制和界面。
+* KVM能在不改变linux或windows镜像的情况下同时运行多个虚拟机，（它的意思是多个虚拟机使用同一镜像）并为每一个虚拟机配置个性化硬件环境（网卡、磁盘、图形适配器……）同时KVM还能够使用ksm技术帮助宿主服务器节约内存。
+* 在主流的Linux内核，如2.6.20以上的内核均已包含了KVM核心。
+SNAT: Source Network Address Translation, 修改网络包源 IP 地址
+一般的 AC 连接到 ISP 就是做的 SNAT
+场景：云上的vm主机用户作为客户端访问外网服务器
+vm(client)&amp;mdash;&amp;gt;SNAT(将数据包中的内网源IP转换为外网IP)&amp;mdash;&amp;gt;Internet(服务器）&amp;mdash;&amp;gt;SNAT(将数据包内的目的IP转换为内网IP)&amp;mdash;&amp;gt;vm(client)
+DNAT：Destination Network Address Translation, 修改网络包目的 IP 地址
+对互联网提供服务，即外网 IP 提供的服务，客户端访问服务时将其映射回内网
+Internet(client用户)&amp;mdash;&amp;gt;DNAT(将数据包中的目的公网IP转换为目的内网IP)&amp;mdash;&amp;gt;VM(server)&amp;mdash;&amp;gt;DNAT(将数据包中的源内网IP转换为外网IP)&amp;mdash;&amp;gt;Internet(client用户)&lt;/p&gt;
+
+&lt;p&gt;Dubbo：阿里研发的微服务架构
+Spring Cloud：业内流行的微服务框架
+MQ：
+kafka：一种高吞吐量的分布式发布订阅消息系统，它可以处理消费者规模的网站中的所有动作流数据。
+InfiniBand：一个用于高性能计算的计算机网络通信标准，它具有极高的吞吐量和极低的延迟，用于计算机与计算机之间的数据互连。
+HPC：高性能计算机群
+FPGA：它是在PAL、GAL、CPLD等可编程逻辑器件的基础上进一步发展的产物。它是作为专用集成电路领域中的一种半定制电路而出现的，既解决了全定制电路的不足，又克服了原有可编程逻辑器件门电路数有限的缺点。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>SQL语句</title>
+      <link>https://elvissong.github.io/post/sql%E8%AF%AD%E5%8F%A5/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://elvissong.github.io/post/sql%E8%AF%AD%E5%8F%A5/</guid>
+      
+        <description>
+
+&lt;h3 id=&#34;sql-dml-和-ddl&#34;&gt;SQL DML 和 DDL&lt;/h3&gt;
+
+&lt;p&gt;可以把 SQL 分为两个部分：数据操作语言 (DML) 和 数据定义语言 (DDL)。
+SQL (结构化查询语言)是用于执行查询的语法。但是 SQL 语言也包含用于更新、插入和删除记录的语法。&lt;/p&gt;
+
+&lt;p&gt;查询和更新指令构成了 SQL 的 DML 部分：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SELECT - 从数据库表中获取数据&lt;/li&gt;
+&lt;li&gt;UPDATE - 更新数据库表中的数据&lt;/li&gt;
+&lt;li&gt;DELETE - 从数据库表中删除数据&lt;/li&gt;
+&lt;li&gt;INSERT INTO - 向数据库表中插入数据&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;SQL 的数据定义语言 (DDL) 部分使我们有能力创建或删除表格。我们也可以定义索引（键），规定表之间的链接，以及施加表间的约束。&lt;/p&gt;
+
+&lt;p&gt;SQL 中最重要的 DDL 语句:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CREATE DATABASE - 创建新数据库&lt;/li&gt;
+&lt;li&gt;ALTER DATABASE - 修改数据库&lt;/li&gt;
+&lt;li&gt;CREATE TABLE - 创建新表&lt;/li&gt;
+&lt;li&gt;ALTER TABLE - 变更（改变）数据库表&lt;/li&gt;
+&lt;li&gt;DROP TABLE - 删除表&lt;/li&gt;
+&lt;li&gt;CREATE INDEX - 创建索引（搜索键）&lt;/li&gt;
+&lt;li&gt;DROP INDEX - 删除索引&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;select * from 表名 或者 select 列名 from 表名&lt;/p&gt;
+
+&lt;p&gt;关键词 distinct 用于返回唯一不同的值&lt;/p&gt;
+
+&lt;p&gt;select distinct 列名 from 表名&lt;/p&gt;
+
+&lt;p&gt;select 列名 from 表名 where 列 运算符 值&lt;/p&gt;
+
+&lt;p&gt;运算符 | 描述
+&amp;ndash; | &amp;ndash;|
+= | 等于 |
+&amp;lt;&amp;gt; | 不等于
+&amp;gt; | 大于
+&amp;lt; | 小于
+&amp;gt;= | 大于等于
+&amp;lt;= | 小于等于
+between | 在某个范围内
+like | 搜索某种模式&lt;/p&gt;
+
+&lt;p&gt;and 和 or  且与或&lt;/p&gt;
+
+&lt;p&gt;select * from Persons where Lastname=&amp;lsquo;peter&amp;rsquo;&lt;/p&gt;
+
+&lt;p&gt;top 子句用于规定要返回记录的数目&lt;/p&gt;
+
+&lt;p&gt;select top number | percent column_name(s) from table_name&lt;/p&gt;
+
+&lt;p&gt;select top 50 percent * from Persons&lt;/p&gt;
+
+&lt;p&gt;like 用于在 where 子句中搜索列中的指定模式&lt;/p&gt;
+
+&lt;p&gt;select column_name(s) from table_name where column_name like pattern&lt;/p&gt;
+
+&lt;p&gt;select * from Persons where City like &amp;lsquo;N%&amp;rsquo; 选取Persons表中居住地以N开头的城市的人；&lt;/p&gt;
+
+&lt;h3 id=&#34;sql-通配符&#34;&gt;SQL 通配符&lt;/h3&gt;
+
+&lt;p&gt;通配符 | 描述
+&amp;ndash; | &amp;ndash;
+% | 替代一个或多个字母
+_ | 仅替代一个字母
+[charlist] | 字符列中的任何单一字符
+[^charlist] 或者 [!charlist] | 不再字符列中的任何单一字符&lt;/p&gt;
+
+&lt;p&gt;IN 操作符允许我们在 where 子句中规定多个值&lt;/p&gt;
+
+&lt;p&gt;select column_name(s) from table_name where column_name IN (value1, value2,&amp;hellip;)&lt;/p&gt;
+
+&lt;p&gt;Between 在where子句中使用，选取介于两个值之间的数据范围&lt;/p&gt;
+
+&lt;p&gt;select column_name(s) from table_name where column_name Between value1 and value2&lt;/p&gt;
+
+&lt;p&gt;alias 给表名一个别名&lt;/p&gt;
+
+&lt;p&gt;select column_name(s) from table_name as alias_name&lt;/p&gt;
+
+&lt;p&gt;SELECT po.OrderID, p.LastName, p.FirstName
+FROM Persons AS p, Product_Orders AS po
+WHERE p.LastName=&amp;lsquo;Adams&amp;rsquo; AND p.FirstName=&amp;lsquo;John&amp;rsquo;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Shell 基础</title>
+      <link>https://elvissong.github.io/post/shell/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://elvissong.github.io/post/shell/</guid>
+      
+        <description>
+
+&lt;h3 id=&#34;shell是什么&#34;&gt;Shell是什么&lt;/h3&gt;
+
+&lt;p&gt;Shell 是一个命令行解释器，它为用户提供了一个向 Linux 内核发送请求以便运行程序的界面系统级程序。
+Shell 还是一个弓能强大的编程语言，易编写，易调试，灵活性较强。Shell 是解释执行的的脚本语言，在 Shell 中可以直接调用 Linux 系统命令。&lt;/p&gt;
+
+&lt;h3 id=&#34;一些命令&#34;&gt;一些命令&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;echo 输出命令&lt;/li&gt;
+&lt;li&gt;echo [选项] [输出内容]&lt;/li&gt;
+&lt;li&gt;选项：-e: 支持反斜线控制字符转换&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;控制字符 | 作用 |
+&amp;ndash; | &amp;ndash;
+\a | 输出警告声
+\b | 退格键，也就是向左删除键
+\n | 换行符
+\r | 回车键
+\t | 制表符，也就是 tab 键
+\v | 垂直制表符
+\0nnn | 按照八进制 ASCII 码表输出字符。0 是数字零，nnn 是三位八进制数
+\xhh | 按照十六进制 ASCII 码表输出字符。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;脚本执行&lt;/li&gt;
+&lt;li&gt;赋予执行权限，直接运行
+&amp;gt; chmod 755 hello.sh&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;./hello.sh&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;通过 Bash 调用脚本
+&amp;gt; bash hello.sh&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;bash-的基本功能&#34;&gt;Bash 的基本功能&lt;/h3&gt;
+
+&lt;h4 id=&#34;命令别名和快捷键&#34;&gt;命令别名和快捷键&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;查看系统中所有命令的别名
+&amp;gt; alias&lt;/li&gt;
+&lt;li&gt;设定别名命令
+&amp;gt; alias 别名=‘原命令’&lt;/li&gt;
+&lt;li&gt;别名永久生效，需写入环境变量配置文件
+&amp;gt; vi ~/.bashrc&lt;/li&gt;
+&lt;li&gt;删除别名
+&amp;gt; unalias&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;命令生效顺序&#34;&gt;命令生效顺序&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;第一顺位执行用绝对路径或相对路径执行的命令&lt;/li&gt;
+&lt;li&gt;第二顺位执行命令&lt;/li&gt;
+&lt;li&gt;第三顺位执行 Bash 的内部命令&lt;/li&gt;
+&lt;li&gt;第四顺位执行按照 $PATH 环境变量定义的目录查找顺序找到的第一个命令&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;常用快捷键&#34;&gt;常用快捷键&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ctrl + c : 强制终止当前命令&lt;/li&gt;
+&lt;li&gt;Ctrl + l : 清屏&lt;/li&gt;
+&lt;li&gt;Ctrl + a : 光标移动到命令行首&lt;/li&gt;
+&lt;li&gt;Ctrl + e : 光标移动到命令行尾&lt;/li&gt;
+&lt;li&gt;Ctrl + u ：从光标所在位置删除到行首&lt;/li&gt;
+&lt;li&gt;Ctrl + z : 把命令放入后台&lt;/li&gt;
+&lt;li&gt;Ctrl + r : 在历史命令中搜索&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;历史命令&#34;&gt;历史命令&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;查看历史命令
+&amp;gt; history [选项] [历史命令保存文件]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;-c: 清空历史命令&lt;/p&gt;
+
+&lt;p&gt;-w：把缓存中的历史命令写入历史命令保存文件 ~/.bash_history&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;历史命令的调用&lt;/li&gt;
+&lt;li&gt;使用上下箭头调用之前的命令&lt;/li&gt;
+&lt;li&gt;使用 “!n” 重复执行第 n 条历史命令&lt;/li&gt;
+&lt;li&gt;使用 “!!” 重复执行上一条命令&lt;/li&gt;
+&lt;li&gt;使用 “!字串” 重复执行最后一条以该字串开头的命令&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;输出重定向&#34;&gt;输出重定向&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;输出重定向&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+   &lt;tr&gt;
+      &lt;td&gt;类型&lt;/td&gt;
+      &lt;td&gt;符号&lt;/td&gt;
+      &lt;td&gt;作用&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td rowspan=&#34;2&#34;&gt;标准输出重定向&lt;/td&gt;
+      &lt;td&gt;命令 &gt; 文件&lt;/td&gt;
+      &lt;td&gt;以覆盖的方式，把命令的正确输出输出到指定的文件或设备当中。&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;命令 &gt;&gt; 文件&lt;/td&gt;
+      &lt;td&gt;以追加的方式，把命令的正确输出输出到指定的文件或设备当中。&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td rowspan=&#34;2&#34;&gt;标准错误输出重定向&lt;/td&gt;
+      &lt;td&gt;错误命令 2&gt; 文件&lt;/td&gt;
+      &lt;td&gt;以覆盖的方式，把命令的错误输出输出到指定的文件或设备当中。&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;错误命令 2&gt;&gt; 文件&lt;/td&gt;
+      &lt;td&gt;以追加的方式，把命令的错误输出输出到指定的文件或设备当中。&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td rowspan=&#34;5&#34;&gt;正确输出和错误输出同时保存&lt;/td&gt;
+      &lt;td&gt;命令 &gt; 文件 2&gt;&amp;1&lt;/td&gt;
+      &lt;td&gt;以覆盖的方式，把正确输出和错误输出输出保存到同一文件当中。&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;命令 &gt;&gt; 文件 2&gt;&amp;1&lt;/td&gt;
+      &lt;td&gt;以追加的方式，把正确输出和错误输出输出保存到同一文件当中。&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;命令 &amp;&gt; 文件&lt;/td&gt;
+      &lt;td&gt;以覆盖的方式，把正确输出和错误输出输出保存到同一文件当中。&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;命令 &amp;&gt;&gt; 文件&lt;/td&gt;
+      &lt;td&gt;以追加的方式，把正确输出和错误输出输出保存到同一文件当中。&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+      &lt;td&gt;命令 &gt;&gt; 文件1 2&gt;&gt; 文件2&lt;/td&gt;
+      &lt;td&gt;把正确的输出追加到文件1，把错误的输出追加到文件2中。&lt;/td&gt;
+   &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+&lt;li&gt;输入重定向
+&amp;gt; wc [选项][文件名]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;选项：&lt;/p&gt;
+
+&lt;p&gt;-c: 统计字节数
+-w: 统计单词数
+-l：统计行数&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;多命令顺序执行&#34;&gt;多命令顺序执行&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;多命令执行符
+多命令执行符 | 格式 | 作用
+&amp;ndash; | &amp;ndash; | &amp;ndash;
+; | 命令1;命令2 | 多个命令顺序执行，命令之间没有任何逻辑关系
+&amp;amp;&amp;amp; | 命令1&amp;amp;&amp;amp;命令2 | 逻辑与, 当命令1正确执行，则命令2才会执行；当命令1执行不正确，则命令2不会执行
+|| | 命令1||命令2 | 逻辑或，当命令1执行不正确，则命令2才会执行；当命令1正确执行，命令2不会执行&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;管道符&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;命令1正确输出作为命令2的操作对象&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;命令1 | 命令2&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;shell-中特殊符号&#34;&gt;Shell 中特殊符号&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;通配符&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;通配符&lt;/th&gt;
+&lt;th&gt;作用&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;td&gt;匹配一个任意字符&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;*&lt;/td&gt;
+&lt;td&gt;匹配0个或任意多个任意字符，也就是匹配任何内容&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[]&lt;/td&gt;
+&lt;td&gt;匹配括号中任意一个字符串。如：[abc]代表一定匹配一个字符，或者a,或者b,或者c.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[-]&lt;/td&gt;
+&lt;td&gt;匹配括号中任意一个字符，-代表一个范围。[a-z]代表匹配一个小写字母&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;[^]&lt;/td&gt;
+&lt;td&gt;逻辑非，表示匹配不是括号内的一个字符。[^0-9]表示匹配一个不是数字的字符&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bash 中其他特殊符号&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;符号&lt;/th&gt;
+&lt;th&gt;作用&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;‘’&lt;/td&gt;
+&lt;td&gt;单引号。在单引号中所有的特殊符号，如 ‘$’ 和 ‘`’ 都没有特殊含义。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;“”&lt;/td&gt;
+&lt;td&gt;双引号。在双引号中特殊字符都没有特殊含义，但是 “$”、“`”和“\”是例外，拥有“调用变量的值”，“引用命令”和“转义符”的特殊含义。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;``&lt;/td&gt;
+&lt;td&gt;反引号。 反引号括起来的是系统命令，在 Bash 中会先执行它。和$()作用一样，推荐使用$()，反引号容易看错。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;#&lt;/td&gt;
+&lt;td&gt;在 Shell 脚本中， #开头的行代表注释。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;$&lt;/td&gt;
+&lt;td&gt;用于调用变量的值，如需要调用变量 name 的值时，使用 $name。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;转义符，跟在 \ 后的特殊符号失去特殊含义，变为普通字符。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Python 的一些数据结构</title>
+      <link>https://elvissong.github.io/post/python-%E7%9A%84%E4%B8%80%E4%BA%9B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+      <pubDate>Sun, 01 Jan 2017 23:48:57 +0800</pubDate>
+      
+      <guid>https://elvissong.github.io/post/python-%E7%9A%84%E4%B8%80%E4%BA%9B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
+      
+        <description>
+
+&lt;h3 id=&#34;python-的一些数据结构&#34;&gt;Python 的一些数据结构&lt;/h3&gt;
+
+&lt;h3 id=&#34;列表&#34;&gt;列表&lt;/h3&gt;
+
+&lt;h4 id=&#34;列表的一些内置函数&#34;&gt;列表的一些内置函数&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.append(x)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;把一个元素添加到列表的结尾，相当于 a[len(a):] = [x]。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.extend(L)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;将一个给定列表中的所有元素都添加到另一个列表中，相当于 a[len(a):] = L。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.insert(i, x)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;在指定位置插入一个元素。第一个参数是准备插入到其前面的那个元素的索引，例如 a.insert(0, x) 会插入到整个列表之前，而 a.insert(len(a), x) 相当于 a.append(x)。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.remove(x)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;删除列表中值为 x 的第一个元素。如果没有这样的元素，就会返回一个错误。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.pop([i])&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;从列表的指定位置删除元素，并将其返回。如果没有指定索引，a.pop() 返回最后一个元素。元素随即从列表中被删除（方法中 i 两边的方括号表示这个参数是可选的，而不是要求你输入一对方括号，你会经常在Python 库参考手册中遇到这样的标记）。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.clear()&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;从列表中删除所有元素。相当于 del a[:]。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.index(x)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;返回列表中第一个值为 x 的元素的索引。如果没有匹配的元素就会返回一个错误。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.count(x)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;返回 x 在列表中出现的次数。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.sort()&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;对列表中的元素就地进行排序。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.reverse()&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;就地倒排列表中的元素。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;list.copy()&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;返回列表的一个浅拷贝。等同于 a[:]。&lt;/p&gt;
+
+&lt;h4 id=&#34;把列表当作堆栈&#34;&gt;把列表当作堆栈&lt;/h4&gt;
+
+&lt;p&gt;列表方法使得列表可以很方便的做为一个堆栈来使用，堆栈作为特定的数据结构，最先进入的元素最后一个被释放（后进先出）。用 append() 方法可以把一个元素添加到堆栈顶。用不指定索引的 pop() 方法可以把一个元素从堆栈顶释放出来。&lt;/p&gt;
+
+&lt;h4 id=&#34;把列表当作队列&#34;&gt;把列表当作队列&lt;/h4&gt;
+
+&lt;p&gt;你也可以把列表当做队列使用，队列作为特定的数据结构，最先进入的元素最先释放（先进先出）。不过，列表这样用效率不高。相对来说从列表末尾添加和弹出很快；在头部插入和弹出很慢（因为，为了一个元素，要移动整个列表中的所有元素）。&lt;/p&gt;
+
+&lt;p&gt;要实现队列，使用 collections.deque，它为在首尾两端快速插入和删除而设计。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;In [30]: from collections import deque
+
+In [31]: queue = deque([&amp;#34;Eric&amp;#34;, &amp;#34;John&amp;#34;, &amp;#34;Michael&amp;#34;])
+
+In [32]: queue.append(&amp;#34;Terry&amp;#34;)
+
+In [33]: queue
+Out[33]: deque([&amp;#39;Eric&amp;#39;, &amp;#39;John&amp;#39;, &amp;#39;Michael&amp;#39;, &amp;#39;Terry&amp;#39;])
+
+In [34]: queue.appendleft(&amp;#34;Song&amp;#34;)
+
+In [35]: queue
+Out[35]: deque([&amp;#39;Song&amp;#39;, &amp;#39;Eric&amp;#39;, &amp;#39;John&amp;#39;, &amp;#39;Michael&amp;#39;, &amp;#39;Terry&amp;#39;])
+
+In [36]: queue.pop()
+Out[36]: &amp;#39;Terry&amp;#39;
+
+In [37]: queue.popleft()
+Out[37]: &amp;#39;Song&amp;#39;
+
+In [38]: queue
+Out[38]: deque([&amp;#39;Eric&amp;#39;, &amp;#39;John&amp;#39;, &amp;#39;Michael&amp;#39;])&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;del-语句&#34;&gt;del 语句&lt;/h3&gt;
+
+&lt;p&gt;有个方法可以从列表中按给定的索引而不是值来删除一个子项： del 语句。它不同于有返回值的 pop() 方法。语句 del 还可以从列表中删除切片或清空整个列表。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;In [39]:  a = [-1, 1, 66.25, 333, 333, 1234.5]
+
+In [40]: del a[0]
+
+In [41]: a
+Out[41]: [1, 66.25, 333, 333, 1234.5]
+
+In [42]: del a[3:4]
+
+In [43]: a
+Out[43]: [1, 66.25, 333, 1234.5]
+
+In [44]: del a[:]
+
+In [45]: a
+Out[45]: []&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;del 也可以用来删除变量，但是之后的引用就会报错，除非重新赋值。&lt;/p&gt;
+
+&lt;h3 id=&#34;元组&#34;&gt;元组&lt;/h3&gt;
+
+&lt;p&gt;元组在输出时总是有括号的，以便于正确表达嵌套结构。在输入时可以有或没有括号，不过经常括号都是必须的（如果元组是一个更大的表达式的一部分）。不能给元组的一个独立的元素赋值（尽管你可以通过联接和切割来模拟）。还可以创建包含可变对象的元组，例如列表。&lt;/p&gt;
+
+&lt;p&gt;虽然元组和列表很类似，它们经常被用来在不同的情况和不同的用途。元组有很多用途。例如 (x, y) 坐标对，数据库中的员工记录等等。元组就像字符串， 不可变的。通常包含不同种类的元素并通过分拆（参阅本节后面的内容) 或索引访问（如果是 namedtuples，甚至可以通过属性）。列表是 可变的 ，它们的元素通常是相同类型的并通过迭代访问。&lt;/p&gt;
+
+&lt;p&gt;一个特殊的问题是构造包含零个或一个元素的元组：为了适应这种情况，语法上有一些额外的改变。一对空的括号可以创建空元组；要创建一个单元素元组可以在值后面跟一个逗号（在括号中放入一个单值不够明确）。丑陋，但是有效。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;In [53]: t = &amp;#39;hello&amp;#39;, &amp;#39;world&amp;#39;, &amp;#39;!&amp;#39;
+
+In [54]: t[0]
+Out[54]: &amp;#39;hello&amp;#39;
+
+In [55]: t
+Out[55]: (&amp;#39;hello&amp;#39;, &amp;#39;world&amp;#39;, &amp;#39;!&amp;#39;)
+
+In [56]: u = t, (&amp;#39;hello&amp;#39;, &amp;#39;python&amp;#39;, &amp;#39;!&amp;#39;)
+
+In [57]: u
+Out[57]: ((&amp;#39;hello&amp;#39;, &amp;#39;world&amp;#39;, &amp;#39;!&amp;#39;), (&amp;#39;hello&amp;#39;, &amp;#39;python&amp;#39;, &amp;#39;!&amp;#39;))
+
+In [58]: t[1] = 1
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+&amp;lt;ipython-input-58-d6b0ce29b2aa&amp;gt; in &amp;lt;module&amp;gt;()
+----&amp;gt; 1 t[1] = 1
+
+TypeError: &amp;#39;tuple&amp;#39; object does not support item assignment&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;集合&#34;&gt;集合&lt;/h3&gt;
+
+&lt;p&gt;集合是一个无序不重复元素的集。基本功能包括关系测试和消除重复元素。集合对象还支持 union（联合），intersection（交），difference（差）和 sysmmetric difference（对称差集）等数学运算。&lt;/p&gt;
+
+&lt;p&gt;大括号或 set() 函数可以用来创建集合。注意：想要创建空集合，你必须使用 set() 而不是 {}。&lt;/p&gt;
+
+&lt;h3 id=&#34;字典&#34;&gt;字典&lt;/h3&gt;
+
+&lt;p&gt;字典在某些语言中可能称为 联合内存 （ associative memories ）或 联合数组 （ associative arrays ）。序列是以连续的整数为索引，与此不同的是，字典以 关键字 为索引，关键字可以是任意不可变类型，通常用字符串或数值。如果元组中只包含字符串和数字，它可以做为关键字，如果它直接或间接的包含了可变对象，就不能当做关键字。不能用列表做关键字，因为列表可以用索引、切割或者 append() 和 extend() 等方法改变。&lt;/p&gt;
+
+&lt;p&gt;理解字典的最佳方式是把它看做无序的键： 值对 （key:value 对）集合，键必须是互不相同的（在同一个字典之内）。一对大括号创建一个空的字典： {} 。初始化列表时，在大括号内放置一组逗号分隔的键：值对，这也是字典输出的方式。&lt;/p&gt;
+
+&lt;p&gt;字典的主要操作是依据键来存储和析取值。也可以用 del 来删除键：值对（key:value）。如果你用一个已经存在的关键字存储值，以前为该关键字分配的值就会被遗忘。试图从一个不存在的键中取值会导致错误。&lt;/p&gt;
+
+&lt;p&gt;对一个字典执行 list(d.keys()) 将返回一个字典中所有关键字组成的无序列表（如果你想要排序，只需使用 sorted(d.keys()) ）。使用 in 关键字（指Python语法）可以检查字典中是否存在某个关键字（指字典）。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
